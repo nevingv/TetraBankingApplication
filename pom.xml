@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tetra.banking</groupId>
-	<artifactId>tetraBankingApplication</artifactId>
+	<artifactId>TetraBankingApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tetraBankingApplication</name>
 	<description>Banking Application For Tetra Bank</description>
